@@ -56,7 +56,7 @@ You can test and explore this project without physical hardware using online sim
 
 Add your demo video here:
 
-👉 ...
+👉 (https://youtu.be/_1aXUrAoIjM)
 
 
 ---
